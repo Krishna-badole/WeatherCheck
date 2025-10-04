@@ -40,5 +40,4 @@ It fetches real-time weather data using a weather API and displays temperature, 
 
 Pull requests are welcome! For major changes, please open an issue first to discuss what you’d like to change.
 
---
----
+
